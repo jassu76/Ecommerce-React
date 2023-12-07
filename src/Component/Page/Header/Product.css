@@ -1,0 +1,18 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.cat{
+    text-decoration: none;
+}
+.btn-circle{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+
+}
+.bor{
+    width: 200px;
+    height: 200px;
+}
